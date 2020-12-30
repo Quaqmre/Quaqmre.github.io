@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://quaqmre.github.io/detail/</loc>
+    <lastmod>2020-06-25T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://quaqmre.github.io/blog/</loc>
     <lastmod>2020-06-25T00:00:00+03:00</lastmod>
   </url>
@@ -14,6 +19,16 @@
   
   <url>
     <loc>https://quaqmre.github.io/blog/krabby_patty/</loc>
+    <lastmod>2020-06-25T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quaqmre.github.io/detail/akbank/</loc>
+    <lastmod>2020-06-25T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://quaqmre.github.io/detail/eplatform/</loc>
     <lastmod>2020-06-25T00:00:00+03:00</lastmod>
   </url>
   
